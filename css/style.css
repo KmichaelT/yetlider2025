@@ -1,5 +1,5 @@
 /*
-Name : Baitun - Real Estate Mobile Template
+Name : Yetlider - Real Estate Mobile Template
 Author : Ngetemplates
 Author URL : https://themeforest.net/user/ngetemplates
 /* --------------------------------
@@ -147,14 +147,14 @@ p {
 .section-head .underline {
 	width: 45px;
 	height: 2px;
-	background: #0050ef;
+	background: #00637c;
 	margin: 7px 0 0;
 }
 
 .section-head .underline2 {
 	width: 15px;
 	height: 2px;
-	background: #0050ef;
+	background: #00637c;
 	margin: 3px 0 0;
 }
 
@@ -237,13 +237,13 @@ textarea.materialize-textarea:focus:not([readonly]) {
   Button
 ---------------------------------*/
 .button-default {
-	background: #0050ef;
+	background: #00637c;
 	color: #ffffff;
 	box-shadow: none;
 	margin: 20px 0 10px;
 	padding-left: 15px;
 	padding-right: 15px;
-	border: 1px solid #0050ef;
+	border: 1px solid #00637c;
 	padding: 5px 12px 5px;
 	display: inline-block;
 	cursor: pointer;
@@ -261,7 +261,7 @@ textarea.materialize-textarea:focus:not([readonly]) {
 }
 
 .button-default:hover {
-	background: #0050ef;
+	background: #00637c;
 	opacity: 0.9;
 	box-shadow: none;
 }
@@ -276,7 +276,7 @@ textarea.materialize-textarea:focus:not([readonly]) {
   Navbar
 ---------------------------------*/
 .navbar-top {
-	background: #0050ef;
+	background: #00637c;
 	width: 100%;
 	height: 60px;
 	padding: 0;
@@ -337,7 +337,7 @@ textarea.materialize-textarea:focus:not([readonly]) {
 }
 
 .side-nav li.active {
-	background: #0050ef;
+	background: #00637c;
 }
 
 .side-nav-panel-left {
@@ -368,7 +368,7 @@ textarea.materialize-textarea:focus:not([readonly]) {
 
 .side-nav-panel {
 	text-align: left;
-	background: #0050ef;
+	background: #00637c;
 }
 
 .side-nav-panel .profil {
@@ -430,7 +430,7 @@ textarea.materialize-textarea:focus:not([readonly]) {
 
 .side-nav-panel-left .collapsible {
 	border: 0;
-	background: #0050ef;
+	background: #00637c;
 }
 
 .side-nav .collapsible-body ul li a {
@@ -461,7 +461,7 @@ textarea.materialize-textarea:focus:not([readonly]) {
 }
 
 .side-nav .collapsible-header.active {
-	background: #0050ef;
+	background: #00637c;
 }
 
 .collapsible-header i {
@@ -563,7 +563,7 @@ textarea.materialize-textarea:focus:not([readonly]) {
 	find home
 ---------------------------------*/
 .find-home {
-	background: #0050ef;
+	background: #00637c;
 }
 
 .find-home .section-head h4 {
@@ -756,8 +756,8 @@ textarea.materialize-textarea:focus:not([readonly]) {
 }
 
 .pagination-real-estate ul .active {
-	border-color: #0050ef;
-	background: #0050ef;
+	border-color: #00637c;
+	background: #00637c;
 }
 
 .pagination-real-estate ul .active a {
@@ -876,11 +876,7 @@ textarea.materialize-textarea:focus:not([readonly]) {
 	who-we-are
 ---------------------------------*/
 .who-we-are {
-	background: linear-gradient(
-        rgba(0, 80, 239, 0.85),
-        rgba(0, 80, 239, 0.85)
-	),
-	url(../img/bg.jpg);
+	background: #00637c;
 	background-size: cover;
 	color: #fff;
 }
@@ -939,7 +935,7 @@ textarea.materialize-textarea:focus:not([readonly]) {
 	font-size: 25px;
 	color: #fff;
 	margin-bottom: 15px;
-	background: #0050ef;
+	background: #00637c;
 	width: 65px;
 	height: 65px;
 	border-radius: 50%;
@@ -954,7 +950,7 @@ textarea.materialize-textarea:focus:not([readonly]) {
 	quote
 ---------------------------------*/
 .quote {
-	background: #0050ef;
+	background: #00637c;
 	color: #eee;
 }
 
@@ -983,7 +979,7 @@ textarea.materialize-textarea:focus:not([readonly]) {
 }
 
 .features h5 {
-	color: #0050ef;
+	color: #00637c;
 }
 
 @media (min-width: 380px) {
@@ -1034,7 +1030,7 @@ textarea.materialize-textarea:focus:not([readonly]) {
 .testimonial i {
 	font-size: 24px;
 	margin-bottom: 10px;
-	color: #0050ef;
+	color: #00637c;
 }
 
 .testimonial p {
@@ -1076,7 +1072,7 @@ textarea.materialize-textarea:focus:not([readonly]) {
 }
 
 .pricing-table .content span {
-	color: #0050ef;
+	color: #00637c;
     font-size: 25px;
     margin-bottom: 5px;
     display: block;
@@ -1162,7 +1158,7 @@ textarea.materialize-textarea:focus:not([readonly]) {
 }
 
 .pagination-blog ul .active {
-	border-color: #0050ef;
+	border-color: #00637c;
 }
 
 /* ------------------------------
@@ -1302,7 +1298,7 @@ textarea.materialize-textarea:focus:not([readonly]) {
 }
 
 .process .content h5 {
-	color: #0050ef;
+	color: #00637c;
 }
 
 .process .content span {
@@ -1447,7 +1443,7 @@ textarea.materialize-textarea:focus:not([readonly]) {
 }
 
 .find-us ul li i {
-	color: #0050ef;
+	color: #00637c;
 	width: 22px;
 	font-size: 16px;
 }
@@ -1470,7 +1466,7 @@ textarea.materialize-textarea:focus:not([readonly]) {
 
 /*loader custom color*/
 .double-bounce1, .double-bounce2 {
-	background-color: #0050ef;
+	background-color: #00637c;
 }
 
 
@@ -1478,7 +1474,7 @@ textarea.materialize-textarea:focus:not([readonly]) {
   Footer
 ---------------------------------*/
 .footer {
-	background: #0050ef;
+	background: #00637c;
 	padding: 35px 0;
 }
 
